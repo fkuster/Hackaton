@@ -15,3 +15,14 @@ Route::get('/', function()
 {
 	return View::make('hello');
 });
+
+Route::get('/Kreso', function()
+{ $kreso= User::all();
+
+	//return json_encode($kreso);
+	
+	return $kreso;
+});
+
+
+
