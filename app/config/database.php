@@ -55,7 +55,7 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'Hackaton',
+			'database'  => 'hackaton',
 			'username'  => 'root',
 			'password'  => 'hackaton',
 			'charset'   => 'utf8',
