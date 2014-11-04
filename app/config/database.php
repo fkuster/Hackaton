@@ -57,7 +57,7 @@ return array(
 			'host'      => 'localhost',
 			'database'  => 'Hackaton',
 			'username'  => 'root',
-			'password'  => '!QAwdW9K',
+			'password'  => 'hackaton',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
